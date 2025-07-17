@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9f96dd28bc2184408e85358e93ea1b8, type: 3}
+  m_Name: PlayerLvl2-6
+  m_EditorClassIdentifier: 
+  characterName: Alex
+  characterPrefab: {fileID: 6800684717686752506, guid: ba0f88732920edf4cb26ddea288ff67d, type: 3}
+  previewImage: {fileID: 3457449131224333571, guid: a45726c86a94887409f1fe20bf803d9e, type: 3}
+  nivelTipo: 1

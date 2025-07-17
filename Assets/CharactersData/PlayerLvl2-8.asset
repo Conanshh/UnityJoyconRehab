@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9f96dd28bc2184408e85358e93ea1b8, type: 3}
+  m_Name: PlayerLvl2-8
+  m_EditorClassIdentifier: 
+  characterName: Garfield
+  characterPrefab: {fileID: 5620448974097646442, guid: 3eba512053f405c479cd71b04dea9b82, type: 3}
+  previewImage: {fileID: 1149386278463536509, guid: d299d9cf6584e5547b2a5513c9855032, type: 3}
+  nivelTipo: 1

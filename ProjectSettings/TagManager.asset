@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Obstacle
+  - Coin
+  - PlayerTest
+  - JoyconManager1
+  - PlayerCave
+  - Gem
+  - PlayerTest2
+  - EnemyTutorial
+  - PlayerRoad
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Gem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 0
+    uniqueID: 3596095051
+    locked: 0
+  - name: 1
+    uniqueID: 2150564793
+    locked: 0
+  - name: 2
+    uniqueID: 3046304677
+    locked: 0
+  m_RenderingLayers:
+  - Default

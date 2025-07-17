@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9f96dd28bc2184408e85358e93ea1b8, type: 3}
+  m_Name: PlayerLvl2-9
+  m_EditorClassIdentifier: 
+  characterName: Rigby
+  characterPrefab: {fileID: 4076883779801074266, guid: f0e2b77c5ce1ff24782f197315cd7796, type: 3}
+  previewImage: {fileID: -2999854902540224419, guid: 0ab5f2aeb458bc64b9a38e019d3919e4, type: 3}
+  nivelTipo: 1

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9f96dd28bc2184408e85358e93ea1b8, type: 3}
+  m_Name: PlayerLvl1-6
+  m_EditorClassIdentifier: 
+  characterName: Emilia
+  characterPrefab: {fileID: 2554718147313947621, guid: b4f8a3326cb0f7649a657b746610f732, type: 3}
+  previewImage: {fileID: 7891827344170792907, guid: a41f3f27b04549d4b94bb530d99badb8, type: 3}
+  nivelTipo: 0
