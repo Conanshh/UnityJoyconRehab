@@ -15,12 +15,16 @@ En el repositorio encontrará un archivo PDF llamado `ConexionJoycons.pdf` con l
 
 ## Visualización y análisis de datos
 
-Para usar el script `ViewData.py` debes tener Python instalado y crear un entorno virtual. Luego instala las librerías necesarias:
+Para usar el script `ViewData.py` debes tener Python instalado y crear un entorno virtual. Luego instala las librerías necesarias usando el archivo `requirements.txt` que se encuentra en la carpeta `Assets/Scripts`.
 
 ```bash
 python -m venv venv
-venv\Scripts\activate
-pip install matplotlib pandas
+cd .venv
+cd Scripts
+.\Activate
+cd ../..
+cd Assets/Scripts
+pip install -r requirements.txt
 ```
 
 Después ejecuta el script:
@@ -31,9 +35,9 @@ python ViewData.py
 
 ## Cómo convertir el script en un ejecutable (.exe)
 
-Si deseas generar un archivo ejecutable de `ViewData.py` para que pueda usarse sin instalar Python ni librerías, sigue estos pasos:
+Si deseas generar un archivo ejecutable de `ViewData.py` para que pueda usarse sin instalar Python ni librerías, sigue estos pasos (dentro de la carpeta que contiene el script `ViewData.py`):
 
-1. Instala PyInstaller en tu entorno de Python:
+1. Instala PyInstaller en tu entorno de Python (solo en caso de que no se haya instalado desde el requirements.txt):
    ```bash
    pip install pyinstaller
    ```
